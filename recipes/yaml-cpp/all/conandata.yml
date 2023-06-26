@@ -1,4 +1,7 @@
 sources:
+  "0.7.0x":
+    url: "https://github.com/jbeder/yaml-cpp/archive/0e6e28d1a38224fc8172fae0109ea7f673c096db.zip"
+    sha256: "2550c8447e173bbb9a0880dfb6d477dbdbbec7349ea8c87bdeacdcb0dbbb3989"
   "0.7.0":
     url: "https://github.com/jbeder/yaml-cpp/archive/yaml-cpp-0.7.0.tar.gz"
     sha256: "43e6a9fcb146ad871515f0d0873947e5d497a1c9c60c58cb102a97b47208b7c3"
